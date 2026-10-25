@@ -23,7 +23,7 @@ Why it matters to you:
 - **It can't be taken away.** If we ever stop working on a project, it doesn't vanish. Anyone can pick it up and keep it going.
 - **Anyone can make it better.** Every user is a possible contributor, so good ideas don't have to wait on a company's roadmap.
 
-(One exception: our names and logos aren't part of the licence. If you publish your own version of an app, give it its own name.)
+(One exception: our names and logos aren't part of the licence. If you publish your own version of an app, give it its own name. Our [brand guidelines](https://github.com/Untethered-Citizens/.github/blob/main/BRAND.md) explain what's fine.)
 
 ## Bring your own AI
 
