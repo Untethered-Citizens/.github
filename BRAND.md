@@ -20,6 +20,7 @@ Every project keeps the same promises: free and open source, bring your own AI, 
 |---|---|
 | **Untethered Citizens** | The organization and community as a whole. |
 | **Untethered Calories** | The iPhone food log. Its iOS Home Screen name is just "Calories". |
+| **Untethered VPN** | The Apple TV client for WireGuard®. tvOS shows the full name under its icon. In descriptions, call it "a client for WireGuard®"; "WireGuard" never goes in its name or icon. |
 | **Bring your own AI** | How our apps use AI: you add your own AI key and pay the provider directly. Spell it out; the acronym "BYOAI" already means something else in workplace IT. |
 
 New projects are named "Untethered *Something*", where *Something* is a plain word for what the app does.
@@ -30,13 +31,14 @@ New projects are named "Untethered *Something*", where *Something* is a plain wo
 |---|---|---|
 | <img src="brand/untethered-citizens-kite-1024.png" width="96" alt="Kite mark"> | [SVG](brand/untethered-citizens-kite.svg) · [PNG](brand/untethered-citizens-kite-1024.png) | **Untethered Citizens.** A kite flying free on a loose, untied string. |
 | <img src="brand/untethered-calories-plate.svg" width="96" alt="Plate mark"> | [SVG](brand/untethered-calories-plate.svg) · [App icon PNG](brand/untethered-calories-app-icon-1024.png) | **Untethered Calories.** A plate of food seen from above: greens, grains and a protein. |
+| <img src="brand/untethered-vpn-tv-shield-1024.png" width="96" alt="TV and shield mark"> | [SVG](brand/untethered-vpn-tv-shield.svg) · [PNG](brand/untethered-vpn-tv-shield-1024.png) | **Untethered VPN.** A TV with a small shield in front of it. |
 
 Each app gets its own simple mark, in the same flat style and colours, so the family looks related.
 
 **Do:**
 - Use the files as they are, at any size from 20 px up.
 - Leave clear space around a mark, at least a quarter of its width.
-- Put the kite on its brand-green square, and the plate on a light or dark background.
+- Put the kite and the TV on their brand-green squares, and the plate on a light or dark background.
 
 **Don't:**
 - Recolour, stretch, rotate, outline or add shadows or gradients.
