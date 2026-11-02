@@ -46,7 +46,7 @@ Every project here follows the same promises:
 
 | Project | What it does | Status |
 |---|---|---|
-| **[Untethered Calories](https://untetheredcalories.com/)** | An iPhone food log where logging is a conversation. Type or snap what you ate, and AI turns it into calories and macros. | Coming soon to the App Store. The code goes public at launch. |
+| **[Untethered Calories](https://untetheredcalories.com/)** | An iPhone food log where logging is a conversation. Type or snap what you ate, and AI turns it into calories and macros. | Free on the [App Store](https://apps.apple.com/us/app/untethered-calories/id6825672256). [Source code](https://github.com/Untethered-Citizens/untethered-calories) on GitHub. |
 | **[Untethered VPN](https://github.com/Untethered-Citizens/untethered-vpn)** | Connects your Apple TV to a WireGuard® server you run at home, so your streaming apps work through home while you travel. | Public beta. Build it yourself and install it on your own Apple TV. |
 
 More to come.
